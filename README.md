@@ -1,6 +1,6 @@
 <div align="center">
 
-# Chromax & Voidex
+# Chromax & Voidex                 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=chromebin.voidex" />
 
 ### Native Browser Fingerprint Protection
 
