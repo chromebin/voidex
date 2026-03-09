@@ -161,7 +161,7 @@ async function launchBrowser(config) {
   if (!fs.existsSync(config.chromiumPath)) {
     throw new Error(
       `Chromax not found at: ${config.chromiumPath}\n` +
-      'Please install Chromax from: https://github.com/yourusername/voidex/releases\n' +
+      'Please install Chromax from: https://github.com/chromebin/voidex/releases\n' +
       'Or set CHROMIUM_PATH environment variable.'
     );
   }

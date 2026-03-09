@@ -117,7 +117,7 @@ def build_chrome_options(config: Dict) -> Options:
     if not chromium_path.exists():
         raise FileNotFoundError(
             f"Chromax not found at: {chromium_path}\n"
-            "Please install Chromax from: https://github.com/yourusername/voidex/releases\n"
+            "Please install Chromax from: https://github.com/chromebin/voidex/releases\n"
             "Or set CHROMIUM_PATH environment variable."
         )
     

@@ -311,7 +311,7 @@ MIT License - Free to use for any purpose.
 
 Made with ❤️ for privacy and automation
 
-[⭐ Star on GitHub](https://github.com/yourusername/voidex) • [🐛 Report Issue](https://github.com/yourusername/voidex/issues) • [💬 Discussions](https://github.com/yourusername/voidex/discussions)
+[⭐ Star on GitHub](https://github.com/chromebin/voidex) • [🐛 Report Issue](https://github.com/chromebin/voidex/issues) • [💬 Discussions](https://github.com/chromebin/voidex/discussions)
 
 </div>
 

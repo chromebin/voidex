@@ -108,7 +108,7 @@ Anti-Detect Browser
 ✅ Works with Puppeteer & Selenium
 ✅ Open Source
 
-github.com/yourusername/Voidex
+github.com/chromebin/Voidex
 ```
 
 ### Icon/Logo (512x512px)
@@ -148,15 +148,15 @@ github.com/yourusername/Voidex
 ## Badges for README
 
 ```markdown
-![GitHub stars](https://img.shields.io/github/stars/yourusername/Voidex?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/Voidex?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/Voidex?style=social)
+![GitHub stars](https://img.shields.io/github/stars/chromebin/Voidex?style=social)
+![GitHub forks](https://img.shields.io/github/forks/chromebin/Voidex?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/chromebin/Voidex?style=social)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D14.0.0-brightgreen.svg)](https://nodejs.org/)
 [![Python Version](https://img.shields.io/badge/python-%3E%3D3.7-blue.svg)](https://www.python.org/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/yourusername/Voidex/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/chromebin/Voidex/graphs/commit-activity)
 ```
 
 ## Social Media Hashtags

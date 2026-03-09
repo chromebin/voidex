@@ -7,7 +7,7 @@ Get started with Chromax and Voidex by downloading the installers below.
 ### Chromax Browser
 **Custom Chromium with Native Fingerprint Protection**
 
-- **Download**: [ChromaxSetup.exe](https://github.com/yourusername/voidex/releases/latest/download/ChromaxSetup.exe)
+- **Download**: [ChromaxSetup.exe](https://github.com/chromebin/voidex/releases/latest/download/ChromaxSetup.exe)
 - **Version**: 1.0.0
 - **Size**: ~150 MB
 - **Install Location**: `C:\Users\[username]\AppData\Local\Chromax\chrome.exe`
@@ -15,7 +15,7 @@ Get started with Chromax and Voidex by downloading the installers below.
 ### Voidex Launcher
 **GUI Application for Managing Chromax Profiles**
 
-- **Download**: [VoidexSetup.exe](https://github.com/yourusername/voidex/releases/latest/download/VoidexSetup.exe)
+- **Download**: [VoidexSetup.exe](https://github.com/chromebin/voidex/releases/latest/download/VoidexSetup.exe)
 - **Version**: 1.0.0
 - **Size**: ~200 MB
 - **Install Location**: `C:\Users\[username]\AppData\Local\Programs\Voidex\Voidex.exe`
@@ -173,8 +173,8 @@ Linux: /opt/voidex/voidex
 
 - **Documentation**: [docs/](./docs/)
 - **Examples**: [examples/](./examples/)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/voidex/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/voidex/discussions)
+- **Issues**: [GitHub Issues](https://github.com/chromebin/voidex/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/chromebin/voidex/discussions)
 
 ## 📄 License
 
