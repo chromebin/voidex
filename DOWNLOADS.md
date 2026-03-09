@@ -7,7 +7,7 @@ Get started with Chromax and Voidex by downloading the installers below.
 ### Chromax Browser
 **Custom Chromium with Native Fingerprint Protection**
 
-- **Download**: [ChromaxSetup.exe](https://github.com/chromebin/voidex/releases/latest/download/ChromaxSetup.exe)
+- **Download**: [ChromaxSetup.exe](https://github.com/chromebin/voidex/releases/download/Release-1.0/mini_installer.exe)
 - **Version**: 1.0.0
 - **Size**: ~150 MB
 - **Install Location**: `C:\Users\[username]\AppData\Local\Chromax\chrome.exe`
@@ -15,7 +15,7 @@ Get started with Chromax and Voidex by downloading the installers below.
 ### Voidex Launcher
 **GUI Application for Managing Chromax Profiles**
 
-- **Download**: [VoidexSetup.exe](https://github.com/chromebin/voidex/releases/latest/download/VoidexSetup.exe)
+- **Download**: [VoidexSetup.exe](https://github.com/chromebin/voidex/releases/download/Release-1.0/Voidex-Setup-1.0.0.exe)
 - **Version**: 1.0.0
 - **Size**: ~200 MB
 - **Install Location**: `C:\Users\[username]\AppData\Local\Programs\Voidex\Voidex.exe`
