@@ -284,7 +284,6 @@ See [examples/](./examples/) for integration code.
 - **No Sync** - Chrome Sync disabled
 - **No Auto-Update** - Auto-update disabled
 - **Privacy-First** - Built with privacy in mind
-- **Open Source** - Full source code available
 
 ---
 
