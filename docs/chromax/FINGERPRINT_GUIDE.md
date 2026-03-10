@@ -288,11 +288,11 @@ Unlike browser extensions or JavaScript injection, Chromax modifies the browser 
 
 ## 📄 License
 
-MIT License - Free to use for any purpose
+Proprietary License - Free for personal use. Commercial use requires a license.
 
-## 🤝 Contributing
+## 🤝 Feedback
 
-Contributions are welcome! Please feel free to submit issues or pull requests.
+We value your feedback! Please feel free to report bugs or suggest new features.
 
 ## 📞 Support
 

@@ -15,7 +15,7 @@
     "anti-detect"
   ],
   "author": "",
-  "license": "MIT",
+  "license": "UNLICENSED",
   "dependencies": {
     "puppeteer-core": "^21.0.0"
   }

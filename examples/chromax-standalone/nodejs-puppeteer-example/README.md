@@ -168,4 +168,4 @@ const content = await page.$eval('h1', el => el.textContent);
 
 ## 📄 License
 
-MIT License
+Proprietary License - Free for personal use

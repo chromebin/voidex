@@ -228,4 +228,4 @@ Builds a proxy URL from a config object.
 
 ## 📄 License
 
-MIT License
+Proprietary License - Free for personal use

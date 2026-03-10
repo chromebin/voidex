@@ -15,6 +15,9 @@ Get started with Chromax and Voidex by downloading the installers below.
 ### Voidex Launcher
 **GUI Application for Managing Chromax Profiles**
 
+![Voidex Profile Manager](./assets/voidex-screenshot-1.png)
+*Voidex profile manager interface*
+
 - **Download**: [VoidexSetup.exe](https://github.com/chromebin/voidex/releases/download/Release-1.0/Voidex-Setup-1.0.0.exe)
 - **Version**: 1.0.0
 - **Size**: ~200 MB
@@ -178,7 +181,7 @@ Linux: /opt/voidex/voidex
 
 ## 📄 License
 
-Both Chromax and Voidex are released under the MIT License - free to use for any purpose.
+Both Chromax and Voidex are free for personal use. Commercial use requires a license.
 
 ---
 

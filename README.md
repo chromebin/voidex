@@ -4,10 +4,10 @@
 
 ### Native Browser Fingerprint Protection
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-blue.svg)](#-license)
 [![Node.js](https://img.shields.io/badge/node-%3E%3D14.0.0-brightgreen.svg)](https://nodejs.org/)
 [![Python](https://img.shields.io/badge/python-%3E%3D3.7-blue.svg)](https://www.python.org/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![Support](https://img.shields.io/badge/Support-Sponsors-brightgreen.svg)](#-support-the-project)
 
 [Downloads](./DOWNLOADS.md) • [Examples](./examples/) • [Documentation](./docs/)
 
@@ -294,14 +294,14 @@ See [examples/](./examples/) for integration code.
 
 ---
 
-## 🤝 Contributing
+## 🤝 Feedback & Support
 
-Contributions are welcome! Please feel free to:
+We value your feedback! Please feel free to:
 
 - Report bugs or issues
 - Suggest new features
-- Submit pull requests
-- Improve documentation
+- Request improvements
+- Share your use cases
 
 ---
 

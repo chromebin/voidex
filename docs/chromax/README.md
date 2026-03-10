@@ -93,11 +93,11 @@ Use Chromax directly in your Node.js or Python scripts for maximum flexibility.
 - **No Sync** - Chrome Sync disabled
 - **No Auto-Update** - Auto-update disabled
 - **Privacy-First** - Built with privacy in mind
-- **Open Source** - Full transparency
+- **Proprietary** - Advanced native protection technology
 
 ## 📄 License
 
-MIT License - Free to use for any purpose.
+Proprietary License - Free for personal use. Commercial use requires a license.
 
 ---
 

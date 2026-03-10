@@ -171,4 +171,4 @@ element = wait.until(EC.presence_of_element_located((By.ID, 'myElement')))
 
 ## 📄 License
 
-MIT License
+Proprietary License - Free for personal use

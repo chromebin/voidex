@@ -2,6 +2,12 @@
 
 **Voidex** is a desktop application that provides an easy-to-use GUI for managing browser profiles with Chromax's native fingerprint protection.
 
+![Voidex Profile Manager](../../assets/voidex-screenshot-1.png)
+*Voidex profile manager interface*
+
+![Voidex Profile Editor](../../assets/voidex-screenshot-2.png)
+*Profile editor with fingerprint configuration*
+
 ## 🎯 What is Voidex?
 
 Voidex is an Electron-based desktop application that makes it easy to create and manage multiple browser profiles with different fingerprints. No coding required - just point and click.
@@ -107,7 +113,7 @@ Quickly switch between different browser configurations.
 - **Local Storage** - All data stored locally on your machine
 - **No Telemetry** - No usage tracking or analytics
 - **No Cloud Sync** - Your profiles stay on your device
-- **Open Source** - Full source code available
+- **Secure** - Advanced native protection technology
 
 ## 🤝 vs. Commercial Tools
 
@@ -119,12 +125,12 @@ Voidex provides similar functionality to commercial tools like GoLogin or Multil
 | Native Fingerprinting | ✅ | ✅ |
 | Proxy Support | ✅ | ✅ |
 | GUI Interface | ✅ | ✅ |
-| Cost | $49-299/month | Free |
-| Open Source | ❌ | ✅ |
+| Cost | $49-299/month | Free (Personal) |
+| Native C++ Protection | ✅ | ✅ |
 
 ## 📄 License
 
-MIT License - Free to use for any purpose.
+Proprietary License - Free for personal use. Commercial use requires a license.
 
 ---
 

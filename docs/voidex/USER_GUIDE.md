@@ -2,6 +2,12 @@
 
 Complete guide to using the Voidex desktop application for managing browser profiles with fingerprint protection.
 
+![Voidex Profile Manager](../../assets/voidex-screenshot-1.png)
+*Voidex main interface showing profile list*
+
+![Voidex Profile Editor](../../assets/voidex-screenshot-2.png)
+*Profile editor with all fingerprint configuration options*
+
 ## 📥 Installation
 
 ### Prerequisites
@@ -368,7 +374,7 @@ While Voidex provides a GUI, you can also use Chromax directly in scripts:
 
 ## 📄 License
 
-MIT License - Free to use for any purpose.
+Proprietary License - Free for personal use. Commercial use requires a license.
 
 ---
 
