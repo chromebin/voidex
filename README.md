@@ -351,7 +351,7 @@ Your support directly impacts the development speed and quality of Chromax and V
 
 Proprietary License - Free for personal use. Commercial use requires a license.
 
-For licensing inquiries, please contact: [your-email@example.com](mailto:your-email@example.com)
+For licensing inquiries, please contact: [ihor.z.1987@gmail.com](mailto:ihor.z.1987@gmail.com)
 
 ---
 
